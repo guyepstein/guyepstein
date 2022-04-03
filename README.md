@@ -1,5 +1,5 @@
 # Hi there 🚶‍♂️
-I'm a Full-Stack developer for quite some time, mainly in the Microsoft world  - C#, .Net 4.3 Framework, .net core Framework and its pereferials and related areas: Entity frmework, sql server, web-api, etc **but** in the last few years I've been working and dealing also with open-source, mainly with angular and Node.js.
+I'm a Full-Stack developer for quite some time, mainly in the Microsoft world  - C#, .Net 4.3 Framework, .Net Core Framework and its pereferials and related areas: Entity frmework, sql server, web-api, etc **but** in the last few years I've been working and dealing also with open-source, mainly with angular and Node.js.
 
 
 # My skills 📜:
