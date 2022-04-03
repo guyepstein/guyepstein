@@ -9,7 +9,7 @@ I'm a Full-Stack developer for quite some time, mainly in the Microsoft world  -
 - C# development under the .Net framework
 - Node.js (Express FW as api server)
 - SQL server - all applicable aspects: DDL, DML, SP, quering, monitoring, troubleshooting
-
+- PostgresSql
 
 ### Web-Development:
 - Angular (8) 
@@ -29,7 +29,6 @@ I'm a Full-Stack developer for quite some time, mainly in the Microsoft world  -
 - Mentoring and Training
 - Problem solving 
 
-- 
 <!--
 **guyepstein/guyepstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
