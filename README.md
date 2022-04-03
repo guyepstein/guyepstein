@@ -3,7 +3,7 @@ I'm a Full-Stack developer for quite some time, mainly in the Microsoft world  -
 
 
 # My skills 📜:
-## Application development:
+### Application development:
 - Architecture aspects (currently mainly in the on-premise world)
 - Design Patterns
 - C# development under the .Net framework
@@ -11,7 +11,7 @@ I'm a Full-Stack developer for quite some time, mainly in the Microsoft world  -
 - SQL server - all applicable aspects: DDL, DML, SP, quering, monitoring, troubleshooting
 
 
-## Web-Development:
+### Web-Development:
 - Angular (8) 
 - Angular related frameworks (RXJS, BootStrap, PrimeNg)
 - TypeScript
@@ -19,13 +19,13 @@ I'm a Full-Stack developer for quite some time, mainly in the Microsoft world  -
 - HTML
 - CSS
 
-## Dev-Ops aspects:
+### Dev-Ops aspects:
 - Publishing, Depolying
 - IIS Configuration 
 - Server Configurtion (.Net Framework aspects, permissions, users,etc.)
 - various **soure\version control tools**: *TFS, CVS, BITBUCKET and GIT.
 
-## General:
+### General:
 - Mentoring and Training
 - Problem solving 
 
