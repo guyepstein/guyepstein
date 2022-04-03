@@ -1,5 +1,7 @@
-### Hi there 👋
-# Hi everyone :wave:
+# Hi there 👋 🚶‍♂️
+I'm a full-stack developer for quite some time, mainly in the Microsoft world  - C#, .Net 4.3 Framework, .net core Framework and its pereferials and related areas: Entity frmework, sql server, web-api, etc **but** in the last few years I've been working and dealing also with open-source, mainly with angular and Node.js.
+I've encountered few **soure\version control tools** during the years: *TFS, CVS, BITBUCKET and GIT.
+
 
 
 **guyepstein/guyepstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
