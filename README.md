@@ -2,8 +2,11 @@
 I'm a full-stack developer for quite some time, mainly in the Microsoft world  - C#, .Net 4.3 Framework, .net core Framework and its pereferials and related areas: Entity frmework, sql server, web-api, etc **but** in the last few years I've been working and dealing also with open-source, mainly with angular and Node.js.
 I've encountered few **soure\version control tools** during the years: *TFS, CVS, BITBUCKET and GIT.
 
-
-
+# My My skills 📜:
+## Application development:
+- Architecture aspects (currently mainly in the on-premise world)
+- C# development under the .Net
+<!--
 **guyepstein/guyepstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,5 +18,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...-->
 
