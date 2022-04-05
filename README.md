@@ -24,10 +24,14 @@ I'm a Full-Stack developer for quite some time, mainly in the Microsoft world  -
 - IIS Configuration 
 - Server Configurtion (.Net Framework aspects, permissions, users,etc.)
 - various **soure\version control tools**: *TFS, CVS, BITBUCKET and GIT.
+- Jenkins usage 
 
 ### General:
 - Mentoring and Training
 - Problem solving 
+
+### Related Links:
+- [StackOverFlow](https://stackoverflow.com/users/6721134/guy-e)
 
 <!--
 **guyepstein/guyepstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
