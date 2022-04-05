@@ -31,6 +31,7 @@ I'm a Full-Stack developer for quite some time, mainly in the Microsoft world  -
 - Problem solving 
 
 ### Related Links:
+- [LinkedIn](https://www.linkedin.com/in/guy-epstein-63923811/)
 - [StackOverFlow](https://stackoverflow.com/users/6721134/guy-e)
 
 <!--
